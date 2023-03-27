@@ -1,3 +1,5 @@
+// Hazrat Ali
+// University Of Scholars
 var mangoes = 19;
 var person = 7;
 var remainder = mangoes % person;

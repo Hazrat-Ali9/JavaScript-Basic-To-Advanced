@@ -1,3 +1,5 @@
+// Hazrat Ali
+// University Of Scholars
 // var isGraduated = true;
 // var salary = 75000;
 // var cars = 1;

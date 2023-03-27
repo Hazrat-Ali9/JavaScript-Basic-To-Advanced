@@ -1,3 +1,5 @@
+// Hazrat Ali
+// University Of Scholars
 var onionPrice = 20;
 var eggPrice = 10;
 

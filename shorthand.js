@@ -1,3 +1,5 @@
+// Hazrat Ali
+// University Of Scholars
 // variable declaration
 var tomatoPrice = 25;
 // variable value update

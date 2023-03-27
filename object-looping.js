@@ -1,3 +1,5 @@
+// Hazrat Ali
+// University Of Scholars
 // array vs object
 var shoppingItems = ['books', 'sunglass', 'shoes', 'pen'];
 var friendsAge = [12, 45, 78, 12, 32, 14];

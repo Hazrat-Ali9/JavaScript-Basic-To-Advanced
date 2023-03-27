@@ -1,3 +1,5 @@
+// Hazrat Ali
+// University Of Scholars
 /* 
 function functionName (parameters){
     function body

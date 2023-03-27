@@ -1,3 +1,5 @@
+// Hazrat Ali
+// University Of Scholars
 var money = 68;
 var danishPrice = 45;
 var butterBread = 35;

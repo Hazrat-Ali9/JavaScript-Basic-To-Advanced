@@ -1,3 +1,5 @@
+// Hazrat Ali
+// University Of Scholars
 // function game (name , time ){
 
 //  console.log(name + " is playing from " + time );

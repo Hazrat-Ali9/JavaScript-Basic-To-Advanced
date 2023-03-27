@@ -1,3 +1,5 @@
+// Hazrat Ali
+// University Of Scholars
 var numbers = [45, 68, 78, 56, 89, 98];
 
 // 1. get element value by index
