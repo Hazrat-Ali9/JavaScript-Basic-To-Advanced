@@ -12,7 +12,7 @@ function add(num1, num2 = 33) {
 }
 const result = add(15, 0);
 console.log(result);
-
+// Default perameter
 function fullName(first, last = 'Chowdhury') {
     const name = first + ' ' + last;
     return name;
