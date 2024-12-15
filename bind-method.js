@@ -30,3 +30,5 @@ heroTreatDey(500);
 kibria.treatDey(400);
 const normalTreatDey = kibria.treatDey.bind(normalGolam);
 normalTreatDey(2000);
+
+// Bind method
