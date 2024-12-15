@@ -5,7 +5,7 @@ class PenDrive {
         this.price = price;
     }
 }
-// class js 
+// Class js 
 const ignite = new PenDrive('36GB', 'white', 1300);
 console.log(ignite);
 const oakWood = new PenDrive('4GB', 'black');
