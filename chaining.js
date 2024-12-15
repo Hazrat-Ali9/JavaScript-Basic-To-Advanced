@@ -13,7 +13,7 @@ const [best, faltu] = ['momotaj', 'poroshi'];
 // console.log(best, faltu);
 const { sky, color, money } = { sky: 'blue', soil: 'matti', color: 'red', money: 500 };
 
-//chaining
+//Chaining
 
 const company = {
     name: 'GP',
