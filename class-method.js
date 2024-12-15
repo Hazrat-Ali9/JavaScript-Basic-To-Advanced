@@ -18,6 +18,6 @@ class Hero {
         return 'Price is too high, i can not buy';
     }
 }
-
+// class method
 const catMan = new Hero('catman', 'Deep Khamsi');
 console.log(catMan.goForGrocery(100));
