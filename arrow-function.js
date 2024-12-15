@@ -21,3 +21,5 @@ console.log(a.counter)
 setTimeout(a.handleClick, 0)
 setTimeout(a.handleLongClick, 0)
 setTimeout(()=> console.log(a.counter), 10)
+
+// arrow funtion
