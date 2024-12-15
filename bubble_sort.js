@@ -32,3 +32,5 @@ function bubbleSortDesc(array){
 
 const sorted = bubbleSort(numbers);
 console.log(sorted);
+
+// Bubble sort
