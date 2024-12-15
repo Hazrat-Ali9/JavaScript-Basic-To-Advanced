@@ -23,3 +23,5 @@ function binarySearch(numbers, target) {
 const target = 43;
 const index = binarySearch(numbers, target)
 console.log(index)
+
+// Binary search
