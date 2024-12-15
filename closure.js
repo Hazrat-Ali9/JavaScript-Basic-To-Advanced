@@ -7,7 +7,7 @@ function stopWatch(){
         return count;
     }
 }
-
+// closure
 const clock1 = stopWatch();
 console.log(clock1());
 console.log(clock1());
