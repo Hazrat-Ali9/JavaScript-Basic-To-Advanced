@@ -9,3 +9,5 @@ const removed = nums.splice(2, 3, 77);
 
 const together = nums.join("ami");
 console.log(together);
+
+// array split
