@@ -15,3 +15,5 @@ const numberSliced = numbers.slice(4, 8);
 const numberSpliced2 = numbers.splice(4, 0, 777, 888, 999);
 console.log(numberSpliced2);
 console.log(numbers);
+
+// Array slice
