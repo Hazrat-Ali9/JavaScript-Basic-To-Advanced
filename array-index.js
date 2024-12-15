@@ -16,3 +16,5 @@ console.log(numbers);
 numbers[1] = 95;
 numbers[4] = 21;
 console.log(numbers);
+
+// array index
