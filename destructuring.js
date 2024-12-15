@@ -30,7 +30,7 @@ const company = {
         }
     },
 };
-
+// Destructuring
 // const work = company.web.work;
 // const framework = company.web.framework;
 const { work, framework } = company.web;
