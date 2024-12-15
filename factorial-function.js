@@ -5,7 +5,7 @@
 //     factorial = factorial * i;
 // }
 // console.log(factorial);
-
+// Factorial Functin
 function getFactorial(number) {
     let factorial = 1;
     for (let i = 1; i <= number; i++) {
