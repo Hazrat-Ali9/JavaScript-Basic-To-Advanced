@@ -11,6 +11,7 @@ if (isFoodReady == true) {
     console.log('Mama!! I will eat now.')
 }
 
+// Conditional
 var iphonePrice = 70000;
 var myBudget = 109500;
 
