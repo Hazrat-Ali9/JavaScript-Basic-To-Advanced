@@ -52,3 +52,5 @@ const person = fullName('Rahim', 'Ali');
 
 // object 
 const bottle = { color: 'yellow', contain: 'water', price: 50 }
+
+// basic js
