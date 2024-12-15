@@ -4,7 +4,7 @@ document.getElementById('add-border').addEventListener('click', function () {
     const container = document.getElementById('friend-container');
     container.style.border = '3px solid yellow';
 });
-
+// Dom js
 function addBackgroundColor() {
     const friends = document.getElementsByClassName('friend');
     for (const friend of friends) {
