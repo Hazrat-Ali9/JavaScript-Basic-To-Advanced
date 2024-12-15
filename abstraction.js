@@ -24,3 +24,4 @@ const myCat = new Cat();
 myCat.talk();
 const myDog = new Dog();
 myDog.talk();
+// Abstration js 
