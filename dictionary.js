@@ -11,7 +11,7 @@ class Dictionary {
         return this.dictionary[key];
     }
 }
-
+// Dictionary js
 const phoneBook = new Dictionary();
 phoneBook.add('Mahi', '01717030303');
 phoneBook.add('Porimoni', '01717050505');
