@@ -5,3 +5,5 @@
 // let a = 'Jamal Uddin Shahen Shah';
 let a = false;
 console.log(typeof a);
+
+// Data types 
