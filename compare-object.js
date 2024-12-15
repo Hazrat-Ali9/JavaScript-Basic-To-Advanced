@@ -11,7 +11,7 @@ else {
     // console.log('Objects are different');
 }
 
-
+// compare object
 const first2 = { a: 1, b: 2, c: 2 };
 const second2 = { b: 2, a: 1 };
 console.log(JSON.stringify(first2));
