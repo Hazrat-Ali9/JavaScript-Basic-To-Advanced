@@ -17,3 +17,5 @@ const sortedBigNumbers = bigNumbers.sort(function (a, b) {
     return a - b;
 });
 console.log(sortedBigNumbers);
+
+// array sort
