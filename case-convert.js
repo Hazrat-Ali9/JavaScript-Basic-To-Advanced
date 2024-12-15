@@ -3,7 +3,7 @@
 const anthem = 'Amar Sonar Bangla Ami Tomai Valobashi';
 const search = 'valo';
 
-// case convert
+// Case convert
 const userInput = 'blACkPinK';
 const savedUserName = 'blackPink';
 // console.log(userInput.toLowerCase());
