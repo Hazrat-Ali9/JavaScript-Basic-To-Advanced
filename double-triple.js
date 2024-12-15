@@ -8,7 +8,7 @@ if (first == second) {
 else {
     console.log('condition is false');
 }
-
+// Double tripe js
 //more comparison
 // const a = { name: 'ali' };
 // const b = { name: 'ali' };
