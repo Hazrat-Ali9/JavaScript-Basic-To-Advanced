@@ -13,7 +13,7 @@ const normalPerson = {
         return this.salary;
     }
 }
-
+// call apply js
 const heroPerson = {
     firstName: 'Hero',
     lastName: 'Balam',
