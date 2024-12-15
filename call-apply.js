@@ -10,6 +10,7 @@ const kibria = {
         return this.money;
     }
 }
+// call apply
 
 const heroBalam = {
     id: 102,
