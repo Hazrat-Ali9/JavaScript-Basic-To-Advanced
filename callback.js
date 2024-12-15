@@ -5,7 +5,7 @@ function explain_callback(name, age, task){
     console.log('Hello ', name);
     console.log('your age ', age);
 }
-
+// callback
 function washHand(){
     console.log('wash hand with soap')
 }
