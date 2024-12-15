@@ -5,6 +5,7 @@
 // console.log(6 != 6);
 var myLove = 99;
 var yourLove = 100;
+// Love Comparison
 
 // console.log(myLove > yourLove);
 // console.log(myLove == yourLove);
