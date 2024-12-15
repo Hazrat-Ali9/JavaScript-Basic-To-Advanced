@@ -9,6 +9,7 @@ function getFactorial(number) {
     }
     return factorial;
 }
+// Debug js
 
 const getMyFactorial = getFactorial(8);
 console.log(getMyFactorial);
