@@ -4,7 +4,7 @@
 // const remainder = number % 2;
 // console.log(remainder == 0); 
 // console.log(number % 2 == 0); 
-
+// odd even js
 
 function isEven(number) {
     if (number % 2 == 0) {
