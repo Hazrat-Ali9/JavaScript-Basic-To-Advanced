@@ -7,7 +7,7 @@ class Person {
         this.salary = salary;
     }
 }
-
+// new js
 const heroPerson = new Person('Hero', 'Balam', 20000);
 console.log(heroPerson);
 const friendlyPerson = new Person('Hero', 'Kalam', 25000)
