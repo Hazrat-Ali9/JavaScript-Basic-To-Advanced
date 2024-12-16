@@ -18,7 +18,7 @@ class Phone extends SmartDevice{
         console.log('I am sending text to my gf/bf')
     }
 }
-
+// inheritance 
 class Watch extends SmartDevice{
     constructor(name, price, distance){
         super(name, price);
