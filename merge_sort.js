@@ -10,6 +10,7 @@ function mergeSort(arr) {
     //send left and right to the mergeSort to broke it down into pieces
     //then merge those
     return merge(mergeSort(left), mergeSort(right));
+    // Merge sort 
 }
 function merge(left, right) {
     let result = [],
