@@ -2,4 +2,4 @@
 // University Of Scholars
 console.log(555);
 
-// First js program
+// First js Program
