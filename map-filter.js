@@ -23,7 +23,7 @@ const numbers = [3, 4, 5, 6, 7, 8];
 // const result = numbers.map(x => x * x);
 
 // console.log(result);
-
+// Map Filter
 const bigger = numbers.filter( x => x < 3);
 
 const isThere = numbers.find(x => x > 5);
