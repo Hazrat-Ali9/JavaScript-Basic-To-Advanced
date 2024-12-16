@@ -8,7 +8,7 @@ function functionName (parameters){
 
 var returnedValue = functionName(parameters value) 
 */
-
+// Function example 
 function getAverage (assignment1, assignment2, assignment3){
     const total = assignment1 + assignment2 + assignment3;
     const average = total / 3;
