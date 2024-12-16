@@ -6,7 +6,7 @@ var eggPrice = 10;
 // addition, subtraction
 var totalPrice = onionPrice + eggPrice;
 var priceDifference = onionPrice - eggPrice;
-
+// operation js
 // console.log(priceDifference);
 
 // console.log(totalPrice);
