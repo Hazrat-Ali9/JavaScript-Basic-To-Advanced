@@ -7,7 +7,7 @@ const userName = 'janpahi potas potas';
 const weTogether = 'ami ' + userName;
 console.log(weTogether);
 // userName = 'moyna pakhi';
-
+// let const js
 const numbers = [45, 23, 89, 60];
 // numbers = [99, 145, 3]; // not allowed
 numbers.push(555);
