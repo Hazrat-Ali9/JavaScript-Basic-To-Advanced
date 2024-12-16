@@ -7,5 +7,5 @@ for (let i = 0; i < friends.length; i++) {
     if(element == 89){
         return i;
     }
-    
+   // Linear search 
 }
