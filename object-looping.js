@@ -12,7 +12,7 @@ var friendsAge = {
     kazi: 14
 }
 
-
+// object looping
 var shoppingCart = {
     books: 3, 
     sunglass: 1,
