@@ -6,7 +6,7 @@ var computer = {
     color: 'silver',
     processor: 'intel i5'
 }
-
+// object properties
 // console.log(computer);
 // console.log(computer.processor);
 var computerPrice = computer.price;
