@@ -4,7 +4,7 @@ const numbers = [5, 13, 7, 41, 30, 5, 2, 19];
 const bigNumbers = numbers.filter(number => number > 20);
 const smallNumbers = numbers.filter(number => number < 10);
 // console.log(smallNumbers);
-// Filter Find
+// Filter Find js
 const products = [
     { name: 'water bottle', price: 50, color: 'yellow' },
     { name: 'mobile phone', price: 15000, color: 'black' },
