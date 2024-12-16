@@ -4,7 +4,7 @@
 const student = { name: 'Sakib AL Hasan', job: 'cricketer' };
 // 2. constructor
 const person = new Object();
-
+// object create 
 // 3. 
 // const human = Object.create(null);
 const human = Object.create(student);
