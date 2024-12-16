@@ -6,7 +6,7 @@
 //     fibo[i] = fibo[i - 1] + fibo[i - 2];
 // }
 // console.log(fibo);
-// Fibonacchi Recursive
+// Fibonacchi recursive
 function fibo(i) {
     if (i == 0) {
         return 0;
