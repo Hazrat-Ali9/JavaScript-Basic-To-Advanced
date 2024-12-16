@@ -12,7 +12,7 @@
 
 // const myFactorial = getFactorial(6);
 // console.log(myFactorial);
-
+// Factorial while loop
 function getFactorial(number) {
     let factorial = 1;
     let i = number;
