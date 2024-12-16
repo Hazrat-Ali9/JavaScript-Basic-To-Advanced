@@ -6,7 +6,7 @@ const students = [
     {id: 41, name: 'Moyouri'},
     {id: 71, name: 'DeepJol'}
 ];
-
+// object property
 const names = students.map( s => s.name);
 const ids = students.map(s => s.id);
 const bigger = students.filter( s => s.id>40);
