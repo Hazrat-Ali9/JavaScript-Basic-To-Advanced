@@ -20,3 +20,5 @@ function factorial(n) {
 
 const myFactorial = factorial(5);
 console.log(myFactorial);
+
+// Factorial Recurtion
