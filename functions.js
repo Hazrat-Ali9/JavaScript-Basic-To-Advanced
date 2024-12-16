@@ -8,7 +8,7 @@
 
 
 // }
-
+// function js
 let x = myFunction(4, 3);    
 
 function myFunction(a, b) {
