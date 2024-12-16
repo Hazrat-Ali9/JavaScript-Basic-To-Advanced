@@ -7,7 +7,7 @@ function bringSingara(taka) {
     var singaraQuantity = taka / singaraPrice;
     return singaraQuantity;
 }
-
+// perameter js
 var money = 90;
 var singara = bringSingara(money);
 console.log('Ai nen singara ', singara);
