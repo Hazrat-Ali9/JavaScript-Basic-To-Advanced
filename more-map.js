@@ -4,7 +4,7 @@ const friends = ['Tom Hanks', 'Tom Cruise', 'Tom Brady', 'Tom Solaiman'];
 
 const fLengths = friends.map(friend => friend.length);
 // console.log(fLengths);
-
+// more map js
 const products = [
     { name: 'water bottle', price: 50, color: 'yellow' },
     { name: 'mobile phone', price: 15000, color: 'black' },
