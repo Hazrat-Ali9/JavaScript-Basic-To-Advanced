@@ -1,7 +1,7 @@
 // Hazrat Ali
 // University Of Scholars
 var numbers = [45, 68, 78, 56, 89, 98];
-
+// index js 
 // 1. get element value by index
 var element = numbers[1]; 
 // console.log(element);
