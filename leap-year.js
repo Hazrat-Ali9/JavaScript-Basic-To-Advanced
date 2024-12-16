@@ -8,7 +8,7 @@ function isLeapYear(year) {
         return false;
     }
 }
-
+// leap year
 const myYear = 2100;
 const isMyYearLeapYear = isLeapYear(myYear);
 console.log('Is my year leap year', isMyYearLeapYear);
