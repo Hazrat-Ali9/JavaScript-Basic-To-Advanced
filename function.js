@@ -10,7 +10,7 @@ function evenify(num){
     }
     return result;
 }
-
+// Function js
 var result = evenify(13);
 var square = result* result;
 console.log('square', square);
