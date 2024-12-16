@@ -19,7 +19,7 @@ const student = {
         return this.money;
     }
 }
-
+// Methods js
 student.takeExam();
 const remaining1 = student.treatDey(900, 100);
 const remaining2 = student.treatDey(500, 50);
