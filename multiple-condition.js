@@ -4,7 +4,7 @@ var gotJob = false;
 var moneySaved = 50000;
 var hasFlat = false;
 var hasHouse = true;
-
+// multiple condition
 // if (gotJob == true && moneySaved > 200000) {
 //     console.log('Cholo biya kore feli!!');
 // }
