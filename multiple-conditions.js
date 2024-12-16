@@ -3,7 +3,7 @@
 // var isGraduated = true;
 // var salary = 75000;
 // var cars = 1;
-
+// multiple condition
 // if(isGraduated == true){
 //     console.log('Eso biye kore feli')
 // }
