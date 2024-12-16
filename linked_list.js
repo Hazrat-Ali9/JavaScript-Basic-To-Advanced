@@ -7,7 +7,7 @@ class Node {
         this.previous = null;
     }
 }
-
+// linked list
 class LinkedList {
     constructor(head){
         this.head = head;
