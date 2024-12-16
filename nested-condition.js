@@ -5,7 +5,7 @@ var butterBreadPrice = 25;
 var toastBiscuitPrice = 10;
 var myBudget = 7;
 var packedWell = false;
-
+// nested condion
 // if (danishPrice < myBudget) {
 //     console.log('Danish kyeye danish jabo');
 // }
