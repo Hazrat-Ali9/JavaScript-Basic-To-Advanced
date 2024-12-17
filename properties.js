@@ -6,7 +6,7 @@ const bottle = {
     price: 50,
     isCleaned: true
 };
-// properties 
+// properties js
 // getting all properties names
 const keys = Object.keys(bottle);
 // console.log(keys);
