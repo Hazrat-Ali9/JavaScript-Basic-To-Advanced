@@ -1,5 +1,6 @@
 // Hazrat Ali
 // University Of Scholars
+// Settimeout
 const currentTime = new Date();
 //console.log(currentTime);
 console.log("first friend Happy birtday");
