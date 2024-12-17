@@ -2,7 +2,7 @@
 // University Of Scholars
 const myName = 'ami';
 const student = undefined;
-
+// Try Catch
 // console.log(student.name);
 
 try {
