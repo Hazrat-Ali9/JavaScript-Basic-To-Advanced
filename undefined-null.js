@@ -14,7 +14,7 @@ let first;
 // console.log(first);
 function second(x, y) {
     // document.getElementById('sum');
-
+// Undefined Null
 }
 const result = second(3, 91);
 // console.log(result);
