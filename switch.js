@@ -1,7 +1,7 @@
 // Hazrat Ali
 // University Of Scholars
 var color = 'yellow';
-
+// Switch
 if (color == 'blue') {
     console.log('color is blue');
 }
