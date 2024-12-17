@@ -5,7 +5,7 @@ function quickSort(arr, left, right) {
         pivot,
         partitionIndex;
 
-
+// Quick Sort
     if (left < right) {
         pivot = right;
         partitionIndex = partition(arr, pivot, left, right);
