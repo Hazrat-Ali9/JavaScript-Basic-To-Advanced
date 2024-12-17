@@ -13,7 +13,7 @@
 // }
 // console.log(sum);
 
-
+// Recurtion
 function sum(i) {
     if (i == 1) {
         return 1;
