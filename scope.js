@@ -1,7 +1,7 @@
 // Hazrat Ali
 // University Of Scholars
 let bonus = 20;
-
+// Scope js
 function sum(first, second){
     let result = first + second + bonus;
     //console.log(bonus);
