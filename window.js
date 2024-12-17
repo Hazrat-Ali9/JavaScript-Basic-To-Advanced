@@ -10,6 +10,7 @@ function add (num1, num2){
     var total = double(result);
     return total;
 }
+// Window js
 // console.log('name outside', name);
 //console.log('result outside', result);
 var sum = add(13, 21);
