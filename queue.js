@@ -13,7 +13,7 @@ class Queue{
         }
     }
 }
-
+// queue js
 const premiks = new Queue();
 premiks.enqueue('Ashique');
 premiks.enqueue('Dewan');
