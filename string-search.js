@@ -1,5 +1,6 @@
  // Hazrat Ali
 // University Of Scholars
+// String Search
 const products = [
     'Dell hardcore i29 200GB laptop',
     'iphone 1TB camera flashlight Phone',
