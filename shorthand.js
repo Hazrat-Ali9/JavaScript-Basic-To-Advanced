@@ -4,7 +4,7 @@
 var tomatoPrice = 25;
 // variable value update
 tomatoPrice = 30;
-
+// shorthand
 // add something to the previous value
 var price1 = 31;
 var price2 = 10;
