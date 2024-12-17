@@ -3,7 +3,7 @@
 // Number
 var watchPrice = 120;
 watchPrice = 125;
-
+// variable js
 // String
 var userName = 'Sogir Uddin';
 
