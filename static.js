@@ -1,5 +1,6 @@
 // Hazrat Ali
 // University Of Scholars
+// Static
 class Animal {
     static category = 'Dog';
     location = 'Khagrachori';
