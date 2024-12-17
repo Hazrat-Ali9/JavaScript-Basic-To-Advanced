@@ -34,5 +34,5 @@ const shapes = [new Circle(10), new Rectangle(10, 5), new Circle(20), new Triang
 for (let i = 0; i < shapes.length; i++) {
     const shape = shapes[i];
     console.log(shape.area());
-    
+    // polimorphism
 }
