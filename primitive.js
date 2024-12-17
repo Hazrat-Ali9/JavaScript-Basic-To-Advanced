@@ -14,7 +14,7 @@ primitive data types
 non-primitive
 6. object
 */
-
+// Primitive
 let a = 'hello';
 let b = a;
 // console.log(a, b);
