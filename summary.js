@@ -2,7 +2,7 @@
 // University Of Scholars
 var tableLength = 12;
 var tourDestinations = ['coxsbazar', 'nepal', 'vutan', 'paris'];
-
+// Summary js
 tourDestinations.indexOf('vutan');
 
 var fourthDestination = tourDestinations[3];
