@@ -2,7 +2,7 @@
 // University Of Scholars
 const time = new Date();
 // console.log(time);
-
+// Time js 
 console.log("first");
 
 setTimeout(function(){
