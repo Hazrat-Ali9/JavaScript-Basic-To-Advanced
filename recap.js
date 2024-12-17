@@ -2,7 +2,7 @@
 // University Of Scholars
 // 1. variable 
 var favoriteBook = '4 hour work week';
-
+// Recap js
 // 2. array
 var bookList = ['positioning', 'hooked', 'start with why', 'shoe dog'];
 var shoeDogIndex = bookList.indexOf('shoe dog');
