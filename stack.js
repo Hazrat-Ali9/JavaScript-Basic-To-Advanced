@@ -1,6 +1,6 @@
  // Hazrat Ali
 // University Of Scholars
-// Stack
+// Stack js
 class Stack {
     constructor() {
         this.stack = [];
