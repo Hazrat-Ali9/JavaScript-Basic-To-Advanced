@@ -1,6 +1,7 @@
  // Hazrat Ali
 // University Of Scholars
 // console.log(this);
+// this js
 const kibria = {
     id: 101,
     money: 5000,
