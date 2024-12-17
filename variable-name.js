@@ -2,7 +2,7 @@
 // University Of Scholars
 // good variable
 var price = 29;
-// Bug Fixing Variable
+// Bug Fixing Variable name
 vaR price = 29;
 Var price = 29;
 VAR price = 29;
