@@ -6,7 +6,7 @@ lastBench.push('jalam');
 lastBench.push('palam');
 lastBench.push('nalam');
 // console.log(lastBench);
-
+// Push Pop
 var friendsAge = [11, 13, 17, 12];
 // friendsAge.push(15);
 console.log(friendsAge);
