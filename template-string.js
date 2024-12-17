@@ -7,7 +7,7 @@ const multiLine = 'This is my first line. \n' +
     'this is my second line.\n' +
     'third line text here\n' +
     'fourth line text here';
-
+// Template String js
 const multiLineNew = `this is is multi line
 this is second line
 this is third line
