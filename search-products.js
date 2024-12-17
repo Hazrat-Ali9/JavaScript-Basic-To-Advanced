@@ -1,5 +1,6 @@
  // Hazrat Ali
 // University Of Scholars
+// Search Product
 const products = [
     { name: 'samsung s3 phone', price: 12000 },
     { name: 'asus laptop d34', price: 32000 },
