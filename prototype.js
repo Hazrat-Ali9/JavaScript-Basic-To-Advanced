@@ -3,6 +3,7 @@
 function Cat(name){
     this.name = name;
 }
+// prototype js
 Cat.prototype.talk = function(){
     console.log('meow meow');
 }
