@@ -35,4 +35,4 @@ class Tablet extends SmartDevice{
  const samsu = new Phone('Samsung', 60000, '16GB')
  samsu.sendSMS()
  const ipad = new Tablet('Apple', 45000, true)
- ipad.sendSMS()
+ //ipad.sendSMS()
