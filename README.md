@@ -23,5 +23,35 @@ In this case, we want a function that adds two numbers.
     const finalResult = add(result1, result2);
 
 
+# ⏰ 2. What is Abstraction in JavaScript  
+Abstraction in JavaScript is a programming principle that focuses on hiding complex implementation details while exposing only essential features or interfaces to the user. It allows developers to work with high-level concepts without needing to understand internal complexities. JavaScript achieves abstraction.
+
+    class Animal {
+     constructor() {}
+     talk() {
+    throw new Error("You must implement talk method");
+      }
+    }
+
+    class Cat extends Animal {
+    talk() {
+    console.log("meow meow");
+      }
+    }
+     class Dog extends Animal {
+      talks() {
+    console.log("bark bark");
+    }
+     talk() {
+    this.talks();
+      }
+    }
+    const myCat = new Cat();
+    myCat.talk();
+    const myDog = new Dog();
+    myDog.talk();
+     
+
+
 
 
