@@ -4,7 +4,7 @@ var friendsAge = [11, 13, 17];
 
 var muriChanacurFee = [34, 55, 221, 3];
 
-var nayikas = ['mahi', "opu", "sabana", "kopila"];
+var nayikas = ['Hazrat', "Mitu", "Rahim", "Khadiza"];
 
 var oddNumbers = [1, 3, 5, 7, 9];
 

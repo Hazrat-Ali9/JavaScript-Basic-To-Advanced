@@ -61,6 +61,24 @@ Abstraction in JavaScript is a programming principle that focuses on hiding comp
     const result = add(2, 3, 5, 7);
     console.log(result);
 
+# 📘 4. Definition of Array in JavaScript:
+  An array in JavaScript is a special variable that can hold multiple values at once, stored in an ordered list and accessible by index.
+
+    var friendsAge = [11, 13, 17];
+
+    var muriChanacurFee = [34, 55, 221, 3];
+
+    var nayikas = ['Hazrat', "Mitu", "Rahim", "Khadiza"];
+
+    var oddNumbers = [1, 3, 5, 7, 9];
+
+    var vowels = ['a', 'e', 'i', 'o', 'u'];
+
+    // console.log(nayikas.length);
+    var vowelsCount = vowels.length;
+    console.log(vowelsCount)
+
+
 
 
 
