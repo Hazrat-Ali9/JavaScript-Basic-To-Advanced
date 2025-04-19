@@ -81,7 +81,7 @@ Abstraction in JavaScript is a programming principle that focuses on hiding comp
 # 🦧 5. Binary Search in JavaScript 
 The binarySearch function is used to find the index of the target value in the array. If the target value is found, the function returns the index; otherwise, it returns -1.
 
-         let numbers = [1, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59];
+    let numbers = [1, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59];
 
     function binarySearch(numbers, target) {
     let start = 0;
