@@ -106,7 +106,41 @@ The binarySearch function is used to find the index of the target value in the a
 // const index = binarySearch(numbers, target)
 // console.log(index)
 
-     
+# 🤡 6. Bind method in Javascript
+The bind() method in JavaScript is used to create a new function that, when called, has its this keyword set to a specific value.
+
+    const kibria = {
+    id: 101,
+    money: 5000,
+    name: 'RJ Kibria',
+    treatDey: function (expense) {
+        this.money = this.money - expense;
+        console.log('here5555', this);
+        return this.money;
+    }
+    }
+
+    const heroBalam = {
+    id: 102,
+    money: 6000,
+    name: 'Hero Balam'
+    }
+    const normalGolam = {
+    id: 102,
+    money: 8000,
+    name: 'Normal Golam'
+    }
+
+     kibria.treatDey(100);
+     const heroTreatDey = kibria.treatDey.bind(heroBalam);
+     heroTreatDey(500);
+     heroTreatDey(300);
+     heroTreatDey(500);
+     kibria.treatDey(400);
+     const normalTreatDey = kibria.treatDey.bind(normalGolam);
+     normalTreatDey(2000);
+
+
 
 
 
