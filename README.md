@@ -147,7 +147,20 @@ The break statement is used to immediately exit a loop (for, while, do...while, 
     Continue Statement in JavaScript
 The continue statement is used to skip the current iteration of a loop and move to the next iteration, without exiting the loop completely.
 
+    const nums = [1, -2, 3, 4, -5, -6, 7, -8, 9];
+    for (let i = 0; i < nums.length; i++) {
+    if (nums[i] > 3) {
+    break;
+    }
+    //console.log(nums[i]);
+    }
 
+    for (let i = 0; i < nums.length; i++) {
+     if (nums[i] < 0) {
+    continue;
+    }
+    console.log(nums[i]);
+    }
 
 
 
