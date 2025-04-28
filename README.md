@@ -140,6 +140,14 @@ The bind() method in JavaScript is used to create a new function that, when call
      const normalTreatDey = kibria.treatDey.bind(normalGolam);
      normalTreatDey(2000);
 
+# 👽 7. JavaScript Break and Continue
+      Break Statement in JavaScript
+The break statement is used to immediately exit a loop (for, while, do...while, or switch) before it finishes all its iterations, based on a specified condition.
+
+    Continue Statement in JavaScript
+The continue statement is used to skip the current iteration of a loop and move to the next iteration, without exiting the loop completely.
+
+
 
 
 
