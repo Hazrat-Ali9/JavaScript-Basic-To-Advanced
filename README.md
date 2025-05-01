@@ -162,7 +162,7 @@ The continue statement is used to skip the current iteration of a loop and move 
     console.log(nums[i]);
     }
 
-# 👩‍🚀 JavaScript Function apply 
+# 👩‍🚀8. JavaScript Function apply 
 In JavaScript, the apply() method is a built-in function of Function objects. It allows you to call a function with a given this value and arguments provided as an array.
   
     const normalPerson = {
