@@ -215,6 +215,36 @@ In JavaScript, the apply() method is a built-in function of Function objects. It
      normalPerson.chargeBill.apply(heroPerson, [4000, 400, 40])
      console.log(heroPerson.salary);
 
+# 🐲9. JavaScript Class Method 
+ 
+A class method in JavaScript is a function defined inside a class body that operates on the class instance (object) or the class itself (if static). These methods define behaviors associated with objects created from the class.
+
+
+    class Hero {
+    constructor(name, power){
+        this.name = name;
+        this.power = power;
+    }
+    getPower(){
+        if(this.power){
+            return this.power;
+        }
+        return 'I have no power';
+    }
+    goForGrocery(budget){
+        if(this.power && budget > 1000){
+            console.log(this.getPower())
+        }
+        return 'Price is too high, i can not buy';
+    }
+    }
+
+    Class Method
+    const catMan = new Hero('catman', 'Deep Khamsi');
+    console.log(catMan.goForGrocery(100));
+
+
+
 
 
 
