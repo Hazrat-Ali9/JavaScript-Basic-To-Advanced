@@ -243,9 +243,34 @@ A class method in JavaScript is a function defined inside a class body that oper
     const catMan = new Hero('catman', 'Deep Khamsi');
     console.log(catMan.goForGrocery(100));
 
+# 🧸10. Javascript Conditional Method
+Conditional statements in JavaScript are control structures that allow the execution of code blocks based on whether a specified condition is true or false. These statements enable programs to make decisions and execute different actions accordingly. The primary conditional statements in JavaScript include if, else if, and else, along with the switch statement and the ternary operator. 
 
+    if (isFoodReady == true) {
+    console.log('Mama!! I will eat now.')
+    }
 
+     // Conditional
+    var iphonePrice = 70000;
+    var myBudget = 109500;
 
+    // if (iphonePrice < myBudget) {
+    //     console.log('Iphone diya pic tule futani marbo!!')
+    // }
+
+    // if (iphonePrice > myBudget) {
+    // console.log('My Shaomi is the best!!');
+    // }
+
+    var chickenPice = 180;
+    var myMoney = 850;
+
+    if (chickenPice < myMoney) {
+    console.log('Yes! murgir Ran khamu ar haddi chabamu');
+    }
+    else {
+    console.log('Smashed potato with Lentil soup')
+    }
 
 
 
