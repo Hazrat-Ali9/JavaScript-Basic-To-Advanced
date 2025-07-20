@@ -2,6 +2,8 @@
 
 # Programmer || Software Enginering 🚁
 
+# Javascript Fundamentals
+
 
 # 🎒 What is Javascript and how can I learn it ?
 
